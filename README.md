@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+## 我是Rainsin
+- 🤔一个还在找工作的菜鸟
+- 💪一个不止于code的普通人
+- 🏠主页：[rainsin](rainsin.name)
+- 💬微信：Ohh_tiamoN
+- 💘推特：@python04368270
+- 🔞telegram：Bill Wang
 <!--
 **2000python/2000python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
