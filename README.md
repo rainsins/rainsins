@@ -2,7 +2,7 @@
 ## 我是Rainsin
 - 🤔一个还在找工作的菜鸟
 - 💪一个不止于code的程序猿
-- 🏠主页：[rainsin](rainsin.name)
+- 🏠主页：[rainsin](http://rainsin.name)
 - 💬微信：Ohh_tiamoN
 - 💘推特：@python04368270
 - 🔞telegram：Bill Wang
