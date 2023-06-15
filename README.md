@@ -1,7 +1,6 @@
 ### Hi there 👋，我是Rainsin，这是我的主页。
 - 🤔一个菜鸟
 - 💪一个不止于code的程序🦍
-- 💬微信：Ohh_tiamoN
 - 💘推特：@2000_python
 - 🔞telegram：Bill Wang
 <!--
