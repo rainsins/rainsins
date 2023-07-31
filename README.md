@@ -2,7 +2,7 @@
 
 ## 🐮🐴关于我
 
-一个不爱说话的♂，喜欢一个人做一些事情，不喜欢被打扰，兴趣挺广泛，不过做的好的没几个。
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Rainsin;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
 
 ## 💰我的小tip
