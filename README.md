@@ -1,19 +1,3 @@
-![d3237c6f56c8296a.png](https://photo.rainsin.cn:2000/LightPicture/2023/07/d3237c6f56c8296a.png)
-
-<div id="player"></div>
-
-<style>
-.cpp-icon{
-  display:inline-block;
-  margin: 0， 3px， 0 ， 5px;
-}
-
-.tech-box{
-  display: flex;
-  width: 100%;
-}
-</style>
-
 ## 🐮🐴关于我
 
 一个不爱说话的♂，喜欢一个人做一些事情，不喜欢被打扰，兴趣挺广泛，不过做的好的没几个。
@@ -36,26 +20,3 @@
 | **搜索引擎** | ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)  |
 
 
-<script defer="defer">
-const ap = new APlayer({
-    container: document.getElementById('player'),
-    mini: false,
-    autoplay: false,
-    theme: '#FADFA3',
-    preload: 'auto',
-    volume: 0.7,
-    mutex: true,
-    lrcType: 3,
-    audio: [
-        {
-            name: '别靠近',
-            artist: '颜小健',
-            url: 'https://pan.rainsin.cn:2000/s/ixcczc',
-            cover: 'https://pan.rainsin.cn:2000/s/l85cnf',
-            lrc: 'https://pan.rainsin.cn:2000/s/wpq1z0',
-            theme: '#ebd0c2'
-        },
-    ]
-});
-
-</script>
