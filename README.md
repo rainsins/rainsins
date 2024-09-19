@@ -1,5 +1,3 @@
-![head](https://rainsin-1305486451.file.myqcloud.com/rainsin-blog/img/header_.png)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Rainsin;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
 ### Languages and Tools:
