@@ -1,4 +1,4 @@
-# Hi there, I'm Rainsin (尉旭胜) 👋
+# Hi there, I'm Rainsin (Xusheng Yu) 👋
 ---
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="150" />
