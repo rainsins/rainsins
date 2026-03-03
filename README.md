@@ -13,19 +13,19 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 **系统 / 底层**
+- 💻 **系统 / 底层**: 
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=white)
   ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
   ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnu-bash&logoColor=white)
 
-- 🌐 **应用 / 前端**
+- 🌐 **应用 / 前端**: 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
-- 🔧 **工具 / 文档**
+- 🔧 **工具 / 文档**: 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex&logoColor=white)
   ![JSON](https://img.shields.io/badge/-JSON--driven-333333?style=flat&logo=json)
