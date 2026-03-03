@@ -34,10 +34,10 @@
 
 ### 📂 精选开源项目 | Selected Projects
 
-- 🦀 **[color-thief-rust](https://github.com/rainsins/chroma-extract)**
-- 🧠 **[cpp-mlp-from-scratch](https://github.com/rainsins/mlp)**
-- 📄 **[resume-react](https://github.com/rainsins/resume)**
-
+- **[color-thief-rust](https://github.com/rainsins/chroma-extract)**
+- **[cpp-mlp-from-scratch](https://github.com/rainsins/mlp)**
+- **[resume-react](https://github.com/rainsins/resume)**
+- **[qsv-batch-av1](https://github.com/rainsins/qsv-batch-av1)**
 ---
 
 ### 🔎 业余生活 | Interests
