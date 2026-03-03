@@ -1,37 +1,47 @@
-# Hi there, I'm Rainsin (Xusheng Wei) 👋
+# Hi there, I'm Rainsin (尉旭胜) 👋
+---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=追求高质量代码，对底层逻辑保持好奇。" alt="Quote" />
-</p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="150" />
+
+### 🎓 关于我 (About Me)
+
+- 🌱 **目前关注**：Rust 安全特性、C++ 性能优化、底层算法实现。
+- 📧 **联系方式**：[xxxxxxxxxxx](mailto:xxxxxxxxxxx)
+- 📝 **个人博客**：[blog.rainsin.cn](https://blog.rainsin.cn)
 
 ---
 
-### 🛠 技术栈 (Tech Stack)
+### 🛠 技术栈 | Tech Stack
 
-| 维度 | 技术项 |
-| :--- | :--- |
-| **系统 / 底层** | `Rust`, `C/C++`, `Linux (Shell)`, `所有权模型` |
-| **应用 / 前端** | `Python`, `React`, `JavaScript`, `CSS3 (Flexbox/Grid)` |
-| **工具 / 文档** | `LaTeX (学术排版)`, `Git`, `数学建模`, `JSON-driven` |
+- 💻 **系统 / 底层**
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnu-bash&logoColor=white)
 
----
+- 🌐 **应用 / 前端**
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
-### 📊 GitHub 统计 (Stats)
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rainsin&show_icons=true&theme=vue-dark&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainsin&layout=compact&theme=vue-dark&hide_border=true" />
-</p>
-
----
-
-### 🏸 业余生活 (Interests)
-
-`羽毛球` `网球` `足球` `乒乓球` | `魔方 (逻辑训练)` `书法 (静心)`
+- 🔧 **工具 / 文档**
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex&logoColor=white)
+  ![JSON](https://img.shields.io/badge/-JSON--driven-333333?style=flat&logo=json)
 
 ---
 
-### 📬 联系方式 (Contact)
+### 📂 精选开源项目 | Selected Projects
 
-- 🌐 **Blog**: [blog.rainsin.cn](https://blog.rainsin.cn)
-- 📧 **Mail**: mail@rainsin.cn
+- 🦀 **[color-thief-rust](https://github.com/rainsins/chroma-extract)**
+- 🧠 **[cpp-mlp-from-scratch](https://github.com/rainsins/mlp)**
+- 📄 **[resume-react](https://github.com/rainsins/resume)**
+
+---
+
+### 🔎 业余生活 | Interests
+
+- `🏸 羽毛球` `🎾 网球` `🏀 篮球` `🏓 乒乓球` | `🧩 魔方` `🖌️ 书法`
+
+---
