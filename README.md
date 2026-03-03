@@ -6,7 +6,7 @@
 ### 🎓 关于我 (About Me)
 
 - 🌱 **目前关注**：Rust 安全特性、C++ 性能优化、底层算法实现。
-- 📧 **联系方式**：[xxxxxxxxxxx](mailto:xxxxxxxxxxx)
+- 📧 **联系方式**：[mail[at]rainsin.cn](mailto:mail@rainsin.cn)
 - 📝 **个人博客**：[blog.rainsin.cn](https://blog.rainsin.cn)
 
 ---
